@@ -3,7 +3,7 @@
 <br>
 
 <p align="center" style="font-size:16px;">
-  I'm <strong>GIU</strong>, a passionate advocate of <strong>STEAM</strong> 💨:<br>
+  I'm <strong>GIULI</strong>, a passionate advocate of <strong>STEAM</strong> 💨:<br>
   🔬 Science • 💡 Technology • 🏗 Engineering • 🎨 Art • 📈 Math
 </p>
 
@@ -18,6 +18,7 @@ I aim to contribute positively to projects and teams, leveraging both analytical
 <br>
 
 <br>
+
 #### Professional Persona:
 
 - **Problem Solver:** I enjoy tackling complex software challenges, designing efficient testing strategies, and finding creative solutions to tricky QA problems. Each bug or issue is an opportunity to learn and improve.  
@@ -41,6 +42,7 @@ I aim to contribute positively to projects and teams, leveraging both analytical
 <br>
 
 <br>
+
 #### Personal Insights:
 
 - **Lifelong Learner:** I love learning new technologies, testing methodologies, and exploring innovative solutions in QA and automation. Sharing knowledge with peers is something I always strive for.  
@@ -56,7 +58,6 @@ I aim to contribute positively to projects and teams, leveraging both analytical
   <img src="https://raw.githubusercontent.com/giumarques/giumarques/main/img/toolkit.gif" width="65" align="middle">
   My Toolbox
 </h3>
-
 
 
 <details>
@@ -194,18 +195,17 @@ I aim to contribute positively to projects and teams, leveraging both analytical
   <br>
 </details>
 
+
 ##### 🖇️ Let’s Connect!
 I am always eager to learn something new, collaborate on exciting projects, or discuss any of my works. Don't hesitate to reach out if you’re curious or have something interesting to share!
 
 <br/>
 
 📩 **You can find me here**:
-
 <br>
-
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-3B4252?style=flat&logo=linktree&logoColor=BF616A)](https://linktr.ee/giumarques)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-3B4252?style=flat&logo=linkedin&logoColor=5E81AC)](https://www.linkedin.com/in/giumarques/)
-
+<br>
 
 
 
