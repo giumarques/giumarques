@@ -4,6 +4,7 @@
 
 ## Animated Banner
 
-[![Banner](https://giumarques.github.io/giumarques/index.html)](https://giumarques.github.io/giumarques/index.html)
+![Banner](img/banner.gif)
+
 
 ---
