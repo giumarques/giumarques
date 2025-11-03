@@ -1,14 +1,4 @@
-# Hi, I'm Giuliana 👋
-
-
 ![Banner](img/header.gif)
-
-
-
-<h3>
-  <img src="https://raw.githubusercontent.com/giumarques/giumarques/main/img/toolkit.gif" width="65" align="middle">
-  My Toolbox
-</h3>
 
 <br>
 
@@ -61,6 +51,11 @@ I aim to contribute positively to projects and teams, leveraging both analytical
 
 <br>
 
+
+<h3>
+  <img src="https://raw.githubusercontent.com/giumarques/giumarques/main/img/toolkit.gif" width="65" align="middle">
+  My Toolbox
+</h3>
 
 
 
