@@ -4,7 +4,7 @@
 
 ## Animated Banner
 
-![Banner](img/banner.gif)
+![Banner](img/header.gif)
 
 
 ---
