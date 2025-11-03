@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const containerHeight = document.querySelector('.code-container').clientHeight;
     let currentTransform = 0;
     let indentLevel = 0;
-    const keywords = ['QA', 'AUTOMATION', 'PYTHON', 'DATA ANALYSES', 'MANUAL TESTING', 'API TESTING', 'SQL'];
+    const keywords = ['DATA ANALYSES', 'AUTOMATION', 'PYTHON', 'QUALITY ASSURANCE', 'MANUAL TESTING', 'API TESTING', 'SQL'];
   
     /**
      * Adds a new line to the code wrapper with random indentation and random words/keywords.
